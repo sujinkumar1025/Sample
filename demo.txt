@@ -1,1 +1,11 @@
 Hi this is my sample repository
+Hello,
+
+1st step
+git add . //add all files 
+
+2nd step
+git commit -m "message that perform in files" //changes performing in files
+
+3rd step
+git push   //update to git hub(cloud)
